@@ -3,11 +3,10 @@ package container;
 public class Conteiner {
 	String id;
 	int contMove;
-	
 
 	@Override
 	public String toString() {
-		return "Contêiner ID= " + id + ", contMove= " + contMove;
+		return "Conteiner " + "[contMove= " + contMove+" idConteiner= " + id ;
 	}
 
 	public Conteiner(String id, int contMove) {
