@@ -27,9 +27,9 @@ public class Main {
 					System.exit(0);
 					break;
 				case 1:
-					System.out.println("Informe código de identificação do conteiner: ");
+					System.out.println("Informe código de identificação do contêiner: ");
 					id = teclado.next();
-					contMove = 1;
+					contMove = 0;
 					Conteiner conteiner = new Conteiner(id, contMove);
 					tipoconteiner.push(conteiner);
 					break;
