@@ -1,2 +1,2 @@
 # checkpoint
-projeto da faculdade sobre pilhas e arrays
+projeto sobre pilhas e arrays
